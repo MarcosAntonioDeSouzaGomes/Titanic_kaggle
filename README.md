@@ -2,13 +2,13 @@
 O objetivo deste notebook é seguir um fluxo de trabalho passo a passo, explicando cada passo e justificativa para cada decisão que tomamos durante o desenvolvimento da solução.
 ## Estapas do desafio
 Ao todo serão sete etapas
-1.Definição do problema.
-2.Aquisição dos dados de treino e teste.
-3.Preparar, limpar dados.
-4.Analisar, identificar padrões e explorar os dados.
-5.Modelar, prevr e resolver o problema.
-6.Visualizar, relatar e apresentar as estapas de solução de problemas e a solução final.
-7.Fornecer e enviar os resultados.
+1. Definição do problema.
+2. Aquisição dos dados de treino e teste.
+3. Preparar, limpar dados.
+4. Analisar, identificar padrões e explorar os dados.
+5. Modelar, prevr e resolver o problema.
+6. Visualizar, relatar e apresentar as estapas de solução de problemas e a solução final.
+7. Fornecer e enviar os resultados.
 O fluxo de trabalho indica a sequência geral de como cada estágio pode seguir o outro. No entanto, existem casos de uso com exceções.
 * Podemos combinar vários estágios de fluxo de trabalho. Podemos analisar visualizando os dados.
 
